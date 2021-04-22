@@ -117,5 +117,4 @@ if (operacion == "Division") {
 
 if (operacion == "ayuda") {
 console.log("Para sumar introduzca + o suma, para restart introduzca - o resta, para dividir introduzca / o dividir, para multiplicar introduzca * o multiplicacion")
-
 }
